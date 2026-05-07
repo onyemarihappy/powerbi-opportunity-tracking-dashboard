@@ -72,6 +72,9 @@ Filters for Channel, Month, Segment, and Region allow executives and analysts to
 
 ![Executive Overview](images/executive_overview.JPG)
 
+> The static image above is a snapshot of the live dashboard.
+- 📥 [Download Power BI File (.pbix) →](dashboard/Opportunity_Tracking_Dashboard.pbix) *(Open locally with Power BI Desktop)*
+
 **Partner-Driven Revenue Split**
 A donut chart at the top of the page visually communicates the 69%/31% split between partner-driven and direct revenue, with absolute values of approximately $1.47B and $645M respectively. This is the dashboard's opening statement of channel dependency.
 
